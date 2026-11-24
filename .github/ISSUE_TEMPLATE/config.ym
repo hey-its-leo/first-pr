@@ -1,0 +1,7 @@
+
+blank_issues_enabled: false
+
+contact_links:
+  - name: Contribution Guide
+    url: https://github.com/its-me-kyro/first-pr/blob/main/CONTRIBUTING.md
+    about: Read the contribution guidelines before submitting a question.
